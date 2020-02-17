@@ -8,6 +8,7 @@ Leave your mark and let us know you'd like to get involved!
 1. Scroll down and click the green "Propose File Change" button, then click the next green button to make a pull request.
 
 # Guestbook
+- 2020-02-17: [@wduffee](https://github.com/wduffee) 💻  Hello world.
 - 2019-06-29: [@combinatorist](https://github.com/combinatorist) :bar_chart: I'm so excited to meet you all!
 - 2019-07-09: [@emlem](https://github.com/rian501) :rice_scene:  Glad you are here!
 - 2019-09-16: [@otstats](https://github.com/otstats) :game_die: Data are plural. :satisfied:
