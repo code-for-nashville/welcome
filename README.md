@@ -11,6 +11,7 @@ Leave your mark and let us know you'd like to get involved!
 If you have not yet had a chance to complete the new member form, [please give it a whirl](https://forms.gle/1wHGfvGnxYQMxezY8)!
 
 # Guestbook
+- 2020-08-25: [@atphy](https://github.com/atphy) Can't wait to be a part of the good work happening here!
 - 2020-02-17: [@wduffee](https://github.com/wduffee) 💻  Hello world.
 - 2019-06-29: [@combinatorist](https://github.com/combinatorist) :bar_chart: I'm so excited to meet you all!
 - 2019-07-09: [@emlem](https://github.com/rian501) :rice_scene:  Glad you are here!
